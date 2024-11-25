@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm khalilwazir</h1>
-<h3 align="center">An experienced Cyber security from Pakistan</h3>
+<h3 align="center"> Cyber security professionals from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khalilwazir&label=Profile%20views&color=0e75b6&style=flat" alt="khalilwazir" /> </p>
+<p align="left"> <img <src="https://komarev.com/ghpvc/?username=khalilwazir&label=Profile%20views&color=0e75b6&style=flat" alt="khalilwazir" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khalilwazir" alt="khalilwazir" /></a> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **AI Developing**
 
-- 💬 Ask me about **SOC analyst , Penetester**
+- 💬 Ask me about **SOC analyst , Ethical hacking **
 
 - 📫 How to reach me **khalilrehman8141@gmail.com**
 
